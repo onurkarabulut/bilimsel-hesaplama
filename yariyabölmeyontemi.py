@@ -1,4 +1,4 @@
-#girilen tahmin aralıklarında köklerin yarıya bölme yöntemiyle bulunması
+#girilen tahmin aralıklarında köklerin ORTA NOKTA yöntemiyle bulunması
 def f(x):
   return(x**2-4*x+3) #x**2 = x'in karesini alır
 
