@@ -1,4 +1,5 @@
 #euler yontemi
+#hata payını küçültmek için h değeri küçültülür
 def f(x,y):
     return -y/x
 y4=3/4
